@@ -14,8 +14,8 @@ Steps:
 git push origin main
 
 When prompted:
-	•	Username → your GitHub username
-	•	Password → your new PAT (paste the token)
+* Username → your GitHub username
+* Password → your new PAT (paste the token)
 
 Git will save this new token automatically in your credential helper.
 
